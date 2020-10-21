@@ -1,8 +1,14 @@
-### Hi there 👋
+<div><h1 align="center">Noah Husby</h1>
+<p align="center"><b>I'm Noah and I create software backends, APIs, and homemade blueberry muffins.</b>
+  <br>I'm currently working on projects for <b><a href="https://buildtheearth.net/">@BuildTheEarth</a></b>
+  <br><a href="mailto:hello@noahhusby.com"><b>hello@noahhusby.com</b></a></p></p>
 
-I'm Noah and I create software backends, APIs, and homemade blueberry muffins.
+<p align="center">
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noahhusby&show_icons=true?count_private=true&show_border=false&include_all_commits=true" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahhusby&layout=compact" />
+</a>
 
-- 🌎 I’m currently working on projects for [@BuildTheEarth](https://buildtheearth.net/) and other cool open-source projects
-- 🌱 I’m currently learning about *websockets*
-- ⚡ Fun fact: I've been programming in Java since age seven
-- 📫 How to reach me: [hello@noahhusby.com](mailto:noahhusby@gmail.com) [noahhusby.com](https://noahhusby.com)
+</p>
