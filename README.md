@@ -7,8 +7,4 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=noahhusby&show_icons=true?count_private=true&show_border=false&include_all_commits=true&hide=contribs" />
 </a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahhusby&layout=compact" />
-</a>
-
 </p>
