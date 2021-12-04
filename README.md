@@ -1,10 +1,8 @@
-<div><h1 align="center">Noah Husby</h1>
-<p align="center"><b>I'm Noah and I create software backends, APIs, and homemade blueberry muffins.</b>
-  <br>Developer Manager for <b><a href="https://buildtheearth.net/">@BuildTheEarth</a></b>
-  <br><a href="mailto:hello@noahhusby.com"><b>hello@noahhusby.com</b></a></p></p>
+# Noah Husby
+📧 **[hello@noahhusby.com](mailto:hello@noahhusby.com)**  
+💼 President, **[HusbyLabs](https://github.com/HusbyLabs)**  
+🌎 Developer Manager, **[BuildTheEarth](https://buildtheearth.net/)**
 
-<p align="center">
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noahhusby&show_icons=true&count_private=true&show_border=false&include_all_commits=true&hide=contribs" />
-</a>
-</p>
+## Statistics
+![](https://github-readme-stats.vercel.app/api?username=noahhusby&show_icons=true&count_private=true&show_border=false&include_all_commits=true&hide=contribs)
+![](https://github-readme-streak-stats.herokuapp.com/?user=noahhusby&show_border=false)
